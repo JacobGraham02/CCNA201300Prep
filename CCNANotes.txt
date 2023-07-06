@@ -1,0 +1,6 @@
+Chapter 1:
+	Page 144 of 1572:
+		Hosts can cache the results of DNS requests so that for a time the client does not need to ask the DNS to resolve the name.
+		Recursive DNS lookup involves a request sent to the enterprise DNS server being sent to other DNS servers. In the textbook
+		example, the enterprise dns server does not have a specific address, so the DNS request is sent to root dns, .com TLD dns,
+		and authoritative cisco.com dns. 
